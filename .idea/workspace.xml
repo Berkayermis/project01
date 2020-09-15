@@ -2,20 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fce8d58f-d38e-4af2-81df-2225a4c96d20" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/project01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project01.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -79,6 +82,25 @@
       <path value="$PROJECT_DIR$/vendor/symfony/property-info" />
       <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
       <path value="$PROJECT_DIR$/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-eventmanager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/vendor/webimpress/safe-writer" />
+      <path value="$PROJECT_DIR$/vendor/ocramius/proxy-manager" />
     </include_path>
   </component>
   <component name="ProjectId" id="1hUtVmtLgiZJBvD5bKcCMB5LWCR" />
@@ -91,6 +113,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -101,22 +124,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600077524668</updated>
-      <workItem from="1600077525820" duration="1600000" />
+      <workItem from="1600077525820" duration="16529000" />
+      <workItem from="1600155675771" duration="7877000" />
     </task>
+    <task id="LOCAL-00001" summary="Upgraded MakerBundle &amp; added Security">
+      <created>1600079399881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600079399881</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upgraded MakerBundle &amp; added Security" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upgraded MakerBundle &amp; added Security" />
   </component>
   <component name="WindowStateProjectService">
     <state x="344" y="260" key="#Composer" timestamp="1600077549357">
       <screen x="0" y="0" width="1067" height="760" />
     </state>
     <state x="344" y="260" key="#Composer/0.0.1067.760@0.0.1067.760" timestamp="1600077549357" />
-    <state x="314" y="122" key="FileChooserDialogImpl" timestamp="1600077999605">
+    <state x="339" y="63" key="#com.intellij.ide.util.MemberChooser" timestamp="1600158160585">
       <screen x="0" y="0" width="1067" height="760" />
     </state>
-    <state x="314" y="122" key="FileChooserDialogImpl/0.0.1067.760@0.0.1067.760" timestamp="1600077999605" />
+    <state x="339" y="63" key="#com.intellij.ide.util.MemberChooser/0.0.1067.760@0.0.1067.760" timestamp="1600158160585" />
+    <state x="264" y="136" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1600156051254">
+      <screen x="0" y="0" width="1067" height="760" />
+    </state>
+    <state x="264" y="136" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1067.760@0.0.1067.760" timestamp="1600156051254" />
+    <state x="157" y="0" key="CommitChangelistDialog2" timestamp="1600079398769">
+      <screen x="0" y="0" width="1067" height="760" />
+    </state>
+    <state x="157" y="0" key="CommitChangelistDialog2/0.0.1067.760@0.0.1067.760" timestamp="1600079398769" />
+    <state x="314" y="122" key="FileChooserDialogImpl" timestamp="1600091062366">
+      <screen x="0" y="0" width="1067" height="760" />
+    </state>
+    <state x="314" y="122" key="FileChooserDialogImpl/0.0.1067.760@0.0.1067.760" timestamp="1600091062366" />
     <state x="413" y="279" key="Github.ShareDialog" timestamp="1600078052004">
       <screen x="0" y="0" width="1067" height="760" />
     </state>
@@ -125,5 +173,17 @@
       <screen x="0" y="0" width="1067" height="760" />
     </state>
     <state x="337" y="79" key="Github.UntrackedFilesDialog/0.0.1067.760@0.0.1067.760" timestamp="1600078059182" />
+    <state x="336" y="104" key="NewPhpClassDialog" timestamp="1600095441447">
+      <screen x="0" y="0" width="1067" height="760" />
+    </state>
+    <state x="336" y="104" key="NewPhpClassDialog/0.0.1067.760@0.0.1067.760" timestamp="1600095441447" />
+    <state x="368" y="101" key="RollbackChangesDialog" timestamp="1600160743043">
+      <screen x="0" y="0" width="1067" height="760" />
+    </state>
+    <state x="368" y="101" key="RollbackChangesDialog/0.0.1067.760@0.0.1067.760" timestamp="1600160743043" />
+    <state x="196" y="81" width="672" height="678" key="search.everywhere.popup" timestamp="1600088501553">
+      <screen x="0" y="0" width="1067" height="760" />
+    </state>
+    <state x="196" y="81" width="672" height="678" key="search.everywhere.popup/0.0.1067.760@0.0.1067.760" timestamp="1600088501553" />
   </component>
 </project>
