@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fce8d58f-d38e-4af2-81df-2225a4c96d20" name="Default Changelist" comment="Logging in and logging out were enabled.">
+    <list default="true" id="fce8d58f-d38e-4af2-81df-2225a4c96d20" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/logged.html.twig" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +13,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../project01\exportToHTML" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -117,7 +121,7 @@
       <updated>1600077524668</updated>
       <workItem from="1600077525820" duration="16529000" />
       <workItem from="1600155675771" duration="7877000" />
-      <workItem from="1600242809077" duration="8079000" />
+      <workItem from="1600242809077" duration="8458000" />
     </task>
     <task id="LOCAL-00001" summary="Upgraded MakerBundle &amp; added Security">
       <created>1600079399881</created>
@@ -133,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600250174075</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Missing files">
+      <created>1600254430774</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600254430774</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +153,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Upgraded MakerBundle &amp; added Security" />
     <MESSAGE value="Logging in and logging out were enabled." />
-    <option name="LAST_COMMIT_MESSAGE" value="Logging in and logging out were enabled." />
+    <MESSAGE value="Missing files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Missing files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="344" y="260" key="#Composer" timestamp="1600077549357">
@@ -157,10 +169,10 @@
       <screen x="0" y="0" width="1067" height="760" />
     </state>
     <state x="264" y="136" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1067.760@0.0.1067.760" timestamp="1600156051254" />
-    <state x="157" y="0" key="CommitChangelistDialog2" timestamp="1600254062385">
+    <state x="157" y="0" key="CommitChangelistDialog2" timestamp="1600254429300">
       <screen x="0" y="0" width="1067" height="760" />
     </state>
-    <state x="157" y="0" key="CommitChangelistDialog2/0.0.1067.760@0.0.1067.760" timestamp="1600254062385" />
+    <state x="157" y="0" key="CommitChangelistDialog2/0.0.1067.760@0.0.1067.760" timestamp="1600254429300" />
     <state x="314" y="122" key="FileChooserDialogImpl" timestamp="1600182839592">
       <screen x="0" y="0" width="1067" height="760" />
     </state>
