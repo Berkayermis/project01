@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fce8d58f-d38e-4af2-81df-2225a4c96d20" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project01.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +105,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/rest_api" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -126,6 +119,7 @@
       <updated>1600077524668</updated>
       <workItem from="1600077525820" duration="16529000" />
       <workItem from="1600155675771" duration="7877000" />
+      <workItem from="1600242809077" duration="6718000" />
     </task>
     <task id="LOCAL-00001" summary="Upgraded MakerBundle &amp; added Security">
       <created>1600079399881</created>
@@ -149,22 +143,22 @@
       <screen x="0" y="0" width="1067" height="760" />
     </state>
     <state x="344" y="260" key="#Composer/0.0.1067.760@0.0.1067.760" timestamp="1600077549357" />
-    <state x="339" y="63" key="#com.intellij.ide.util.MemberChooser" timestamp="1600158160585">
+    <state x="339" y="63" key="#com.intellij.ide.util.MemberChooser" timestamp="1600177565985">
       <screen x="0" y="0" width="1067" height="760" />
     </state>
-    <state x="339" y="63" key="#com.intellij.ide.util.MemberChooser/0.0.1067.760@0.0.1067.760" timestamp="1600158160585" />
+    <state x="339" y="63" key="#com.intellij.ide.util.MemberChooser/0.0.1067.760@0.0.1067.760" timestamp="1600177565985" />
     <state x="264" y="136" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1600156051254">
       <screen x="0" y="0" width="1067" height="760" />
     </state>
     <state x="264" y="136" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1067.760@0.0.1067.760" timestamp="1600156051254" />
-    <state x="157" y="0" key="CommitChangelistDialog2" timestamp="1600079398769">
+    <state x="157" y="0" key="CommitChangelistDialog2" timestamp="1600249995681">
       <screen x="0" y="0" width="1067" height="760" />
     </state>
-    <state x="157" y="0" key="CommitChangelistDialog2/0.0.1067.760@0.0.1067.760" timestamp="1600079398769" />
-    <state x="314" y="122" key="FileChooserDialogImpl" timestamp="1600091062366">
+    <state x="157" y="0" key="CommitChangelistDialog2/0.0.1067.760@0.0.1067.760" timestamp="1600249995681" />
+    <state x="314" y="122" key="FileChooserDialogImpl" timestamp="1600182839592">
       <screen x="0" y="0" width="1067" height="760" />
     </state>
-    <state x="314" y="122" key="FileChooserDialogImpl/0.0.1067.760@0.0.1067.760" timestamp="1600091062366" />
+    <state x="314" y="122" key="FileChooserDialogImpl/0.0.1067.760@0.0.1067.760" timestamp="1600182839592" />
     <state x="413" y="279" key="Github.ShareDialog" timestamp="1600078052004">
       <screen x="0" y="0" width="1067" height="760" />
     </state>
@@ -177,13 +171,17 @@
       <screen x="0" y="0" width="1067" height="760" />
     </state>
     <state x="336" y="104" key="NewPhpClassDialog/0.0.1067.760@0.0.1067.760" timestamp="1600095441447" />
-    <state x="368" y="101" key="RollbackChangesDialog" timestamp="1600160743043">
+    <state x="368" y="101" key="RollbackChangesDialog" timestamp="1600176174180">
       <screen x="0" y="0" width="1067" height="760" />
     </state>
-    <state x="368" y="101" key="RollbackChangesDialog/0.0.1067.760@0.0.1067.760" timestamp="1600160743043" />
-    <state x="196" y="81" width="672" height="678" key="search.everywhere.popup" timestamp="1600088501553">
+    <state x="368" y="101" key="RollbackChangesDialog/0.0.1067.760@0.0.1067.760" timestamp="1600176174180" />
+    <state x="93" y="93" width="881" height="575" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600176447707">
       <screen x="0" y="0" width="1067" height="760" />
     </state>
-    <state x="196" y="81" width="672" height="678" key="search.everywhere.popup/0.0.1067.760@0.0.1067.760" timestamp="1600088501553" />
+    <state x="93" y="93" width="881" height="575" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1067.760@0.0.1067.760" timestamp="1600176447707" />
+    <state x="196" y="81" width="672" height="678" key="search.everywhere.popup" timestamp="1600178631067">
+      <screen x="0" y="0" width="1067" height="760" />
+    </state>
+    <state x="196" y="81" width="672" height="678" key="search.everywhere.popup/0.0.1067.760@0.0.1067.760" timestamp="1600178631067" />
   </component>
 </project>

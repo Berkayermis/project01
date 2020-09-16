@@ -9,7 +9,13 @@
         {% endblock %}
     </head>
     <body>
-        {% block body %}{% endblock %}
+        {% block body %}
+        Welcome
+
+            <a href="{{ path('app_logout')}}">Log out</a>
+            <a href="{{ path('app_login') }}">Login page</a>
+
+        {% endblock %}
 
         {% block javascripts %}
             <script>
