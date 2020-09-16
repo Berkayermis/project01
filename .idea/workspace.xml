@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fce8d58f-d38e-4af2-81df-2225a4c96d20" name="Default Changelist" comment="">
+    <list default="true" id="fce8d58f-d38e-4af2-81df-2225a4c96d20" name="Default Changelist" comment="Logging in and logging out were enabled.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +103,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/rest_api" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rest_api" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -119,7 +117,7 @@
       <updated>1600077524668</updated>
       <workItem from="1600077525820" duration="16529000" />
       <workItem from="1600155675771" duration="7877000" />
-      <workItem from="1600242809077" duration="6718000" />
+      <workItem from="1600242809077" duration="8079000" />
     </task>
     <task id="LOCAL-00001" summary="Upgraded MakerBundle &amp; added Security">
       <created>1600079399881</created>
@@ -128,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600079399881</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Logging in and logging out were enabled.">
+      <created>1600250174075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600250174075</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +141,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Upgraded MakerBundle &amp; added Security" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upgraded MakerBundle &amp; added Security" />
+    <MESSAGE value="Logging in and logging out were enabled." />
+    <option name="LAST_COMMIT_MESSAGE" value="Logging in and logging out were enabled." />
   </component>
   <component name="WindowStateProjectService">
     <state x="344" y="260" key="#Composer" timestamp="1600077549357">
@@ -151,18 +157,18 @@
       <screen x="0" y="0" width="1067" height="760" />
     </state>
     <state x="264" y="136" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1067.760@0.0.1067.760" timestamp="1600156051254" />
-    <state x="157" y="0" key="CommitChangelistDialog2" timestamp="1600249995681">
+    <state x="157" y="0" key="CommitChangelistDialog2" timestamp="1600254062385">
       <screen x="0" y="0" width="1067" height="760" />
     </state>
-    <state x="157" y="0" key="CommitChangelistDialog2/0.0.1067.760@0.0.1067.760" timestamp="1600249995681" />
+    <state x="157" y="0" key="CommitChangelistDialog2/0.0.1067.760@0.0.1067.760" timestamp="1600254062385" />
     <state x="314" y="122" key="FileChooserDialogImpl" timestamp="1600182839592">
       <screen x="0" y="0" width="1067" height="760" />
     </state>
     <state x="314" y="122" key="FileChooserDialogImpl/0.0.1067.760@0.0.1067.760" timestamp="1600182839592" />
-    <state x="413" y="279" key="Github.ShareDialog" timestamp="1600078052004">
+    <state x="413" y="279" key="Github.ShareDialog" timestamp="1600254146442">
       <screen x="0" y="0" width="1067" height="760" />
     </state>
-    <state x="413" y="279" key="Github.ShareDialog/0.0.1067.760@0.0.1067.760" timestamp="1600078052004" />
+    <state x="413" y="279" key="Github.ShareDialog/0.0.1067.760@0.0.1067.760" timestamp="1600254146442" />
     <state x="337" y="79" key="Github.UntrackedFilesDialog" timestamp="1600078059182">
       <screen x="0" y="0" width="1067" height="760" />
     </state>
@@ -175,10 +181,18 @@
       <screen x="0" y="0" width="1067" height="760" />
     </state>
     <state x="368" y="101" key="RollbackChangesDialog/0.0.1067.760@0.0.1067.760" timestamp="1600176174180" />
+    <state x="126" y="114" key="Vcs.Push.Dialog.v2" timestamp="1600254038971">
+      <screen x="0" y="0" width="1067" height="760" />
+    </state>
+    <state x="126" y="114" key="Vcs.Push.Dialog.v2/0.0.1067.760@0.0.1067.760" timestamp="1600254038971" />
     <state x="93" y="93" width="881" height="575" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600176447707">
       <screen x="0" y="0" width="1067" height="760" />
     </state>
     <state x="93" y="93" width="881" height="575" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1067.760@0.0.1067.760" timestamp="1600176447707" />
+    <state x="351" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600254092597">
+      <screen x="0" y="0" width="1067" height="760" />
+    </state>
+    <state x="351" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1067.760@0.0.1067.760" timestamp="1600254092597" />
     <state x="196" y="81" width="672" height="678" key="search.everywhere.popup" timestamp="1600178631067">
       <screen x="0" y="0" width="1067" height="760" />
     </state>
